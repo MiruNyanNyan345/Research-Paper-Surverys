@@ -3,8 +3,8 @@
 The research paper surverys in this repository are the assignemnts of my master degree.
 
 ## Natural Language Processing
-** Automatic Text Summarization**
-A Survey of Automatic Text Summarization
+**Automatic Text Summarization**
+* A Survey of Automatic Text Summarization
 
 ## Computer Vision
 **Feature Extraction**
