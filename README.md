@@ -1,6 +1,6 @@
 # Research-Paper-Surverys
 
-The research paper surverys in this repository are the assignemnts of my master degree.
+The research paper surverys in this repository are the assignemnts in my master degree.
 
 ## Natural Language Processing
 **Automatic Text Summarization**
